@@ -6,7 +6,7 @@
 ### ☞TEAM SIZE : 4
 ### ☞TEAM LEADER : Praveen Kumar P
 ### ☞TEAM MEMBER_1 : Sriram V S
-### ☞TEAM MEMBER_2 : Raghul Sadagopan S
+### ☞TEAM MEMBER_2 : Raghul Sadagoban S
 ### ☞TEAM MEMBER_3 : Silas Dhayanand S
 # **QUALIFICATION**
 ### ☞DEGREE : bachelor of engineering 
