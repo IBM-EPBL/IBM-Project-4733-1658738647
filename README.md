@@ -13,7 +13,7 @@
 ### ☞BATCH : computer science engineering
 ### ☞SEMESTER : 7th semester
 # **TECH STACK**
-### ☞ CODING : C++,java,python
+### ☞ CODING : python
 ### ☞ DATA BASE : IBM DB2
 # **👨‍🏫PROJECT DESCRIPTION**
 ### ☞Child safety is definitely something you must prioritize when providing a safe and secure home for your baby or young children.
