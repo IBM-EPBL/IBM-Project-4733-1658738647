@@ -1,4 +1,4 @@
-![Project](https://user-images.githubusercontent.com/115228039/202847153-239ac13d-e80f-46ec-b600-9aa2a1dcf4ea.jpeg)
+![Project](https://user-images.githubusercontent.com/115228039/202848143-005825e7-4f54-4ece-a83e-585182226257.jpeg)
 # **Based Safety Gadget for Child Safety Monitoring and Notification**
 ### ☞CATEGORY : INTERNET OF THINGS
 ### ☞TEAM ID : PNT2022TMID39837
